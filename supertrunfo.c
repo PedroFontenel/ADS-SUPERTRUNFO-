@@ -152,6 +152,8 @@ int main() {
     scanf(" %c", &resposta);
 
     if (resposta == 's' || resposta == 'S')
+
+    printf("porque");
     
     return 0;
 
